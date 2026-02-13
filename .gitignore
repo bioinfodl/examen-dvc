@@ -1,2 +1,6 @@
 /venv
+.venv
 /clean_data.csv
+/data/processed_data/
+/models/*.joblib
+/models/*.pkl
